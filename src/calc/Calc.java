@@ -1,6 +1,7 @@
 package calc;
 
 class Calc {
+	//some comment here
 	int a;
 	int b;
 	
