@@ -16,7 +16,7 @@ class Calc {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("in Calc::main");
+		System.out.println("in Calc::main 2");
 
 	}
 
