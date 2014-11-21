@@ -3,6 +3,7 @@ package calc;
 class Calc {
 	//some comment here
 	//new comment added
+	// 3-rd comment added
 	int a;
 	int b;
 	
