@@ -15,10 +15,16 @@ class Calc {
 	public int Add(){
 		return a+b;		
 	}
+	public int Sub() {
+		return a-b;
+	}
 
 	public static void main(String[] args) {
 		System.out.println("in Calc::main 2");
 		System.out.println("another print added");
+		Calc n=new Calc(4,2);
+		System.out.println("a-b "+n.Sub());
+
 	}
 
 }
